@@ -9,5 +9,8 @@ print("This is what it looks like when you use print")
 
 print(5 * 2)
 
-# Floating points are real numbers written in decimal form instead of fraction form. They have floating decimals points within the number.
+# Floating points are real numbers written in decimal form instead of fraction form. They have floating decimals points within the number. the number has a decimal to show extra place with a 0 at the end
 
+print(5 * 5 / 1)
+
+# the answer now has a decimal point that
