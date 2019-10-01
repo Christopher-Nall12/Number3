@@ -11,6 +11,7 @@ print(5 * 2)
 
 # Floating points are real numbers written in decimal form instead of fraction form. They have floating decimals points within the number. the number has a decimal to show extra place with a 0 at the end
 
-print(5 * 5 / 1)
+print(5 * 2 / 1)
 
-# the answer now has a decimal point that
+# the answer now has a decimal point that makes it a more accurate than just 25
+# the answer is now 25.0 not just 25
