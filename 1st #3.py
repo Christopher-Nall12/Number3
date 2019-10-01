@@ -5,9 +5,9 @@
 
 print("This is what it looks like when you use print")
 
+# to calculate any equation you use print() but without the ""
 
+print(5 * 2)
 
+# Floating points are real numbers written in decimal form instead of fraction form. They have floating decimals points within the number.
 
-
-
-print(55 * 7094 + 5 * 35)
